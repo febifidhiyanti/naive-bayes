@@ -1,0 +1,14 @@
+<=30 Tinggi Single Punya Tidak
+<=30 Tinggi Single Tidak Tidak
+31-40 Tinggi Single Punya Ya
+>40 Sedang Single Punya Ya
+>40 Rendah Menikah Punya Ya
+>40 Rendah Menikah Tidak Tidak
+31-40 Rendah Menikah Tidak Ya
+<=30 Sedang Single Punya Tidak
+<=30 Rendah Menikah Punya Ya
+?40 Sedang Menikah Punya Ya
+<=30 Sedang Menikah Tidak Ya
+31-40 Sedang Single Tidak Ya
+31-40 Tinggi Menikah Punya Ya
+>40 Sedang Single Tidak Tidak
